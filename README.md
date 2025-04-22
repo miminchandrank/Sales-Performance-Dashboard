@@ -44,13 +44,6 @@ Understand your customers better:
 
 ---
 
-## 📁 Files Included
-
-- `Sales_Performance_Overview.twbx` – Tableau workbook file
-- `Data/` – Folder containing the dataset used in this project
-- `Screenshots/` – Key dashboard visuals for preview
-- `README.md` – Project documentation
-
 ---
 
 ## 💡 Insights Gained
